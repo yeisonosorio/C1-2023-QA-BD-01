@@ -31,7 +31,7 @@ para ello pretende modelar su necesidad con un diagrama E-R”*
 
 ## Entrega:
 
-- Hora máxima de entrega 3:55 PM
+- Hora máxima de entrega 4:55 PM
 - El repositorio debe contener por lo menos dos archivos (PDF y diagrama)
 - PR apuntando a la rama solución indicando su nombre completo.
 
